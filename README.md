@@ -96,9 +96,13 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements & Highlights
 
 <div align="center">
+
+![](https://img.shields.io/badge/🐛_Bugs_Hunted-Responsibly_Disclosed-00ff41?style=for-the-badge&labelColor=000000)
+![](https://img.shields.io/badge/🚩_CTF-Player-ff6600?style=for-the-badge&labelColor=000000)
+![](https://img.shields.io/badge/🛡️_Mindset-Defender-2596CD?style=for-the-badge&labelColor=000000)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=jaswanthsai1&theme=matrix&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
