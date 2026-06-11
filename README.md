@@ -1,67 +1,79 @@
 <div align="center">
 
-<!-- Animated Hero Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:003B00,70:00ff41,100:000000&height=260&section=header&text=MATURI%20JASWANTH%20SAI&fontSize=42&fontColor=00ff41&animation=twinkling&fontAlignY=35&desc=%E2%9A%A1%20Bug%20Hunter%20%E2%80%A2%20Penetration%20Tester%20%E2%80%A2%20Ethical%20Hacker%20%E2%9A%A1&descAlignY=55&descSize=18&descColor=ffffff" />
+<!-- ===== HERO BANNER ===== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:003B00,50:00ff41,75:003B00,100:0d1117&height=300&section=header&text=MATURI%20JASWANTH%20SAI&fontSize=46&fontColor=00ff41&animation=twinkling&fontAlignY=38&desc=%E2%9A%A1%20Bug%20Hunter%20%E2%80%A2%20Penetration%20Tester%20%E2%80%A2%20Ethical%20Hacker%20%E2%9A%A1&descAlignY=58&descSize=20&descColor=ffffff" />
 
-<!-- Animated Typing -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=800&color=00FF41&center=true&vCenter=true&random=false&width=700&height=60&lines=%3E+Initializing+Hacker+Profile...;%3E+Access+Granted+%E2%9C%93;%F0%9F%94%90+Ethical+Hacker+%26+Bug+Bounty+Hunter;%F0%9F%9B%A1%EF%B8%8F+Penetration+Tester;%F0%9F%92%80+Breaking+Things+to+Make+Them+Safer;%F0%9F%9A%A9+CTF+Player+%7C+Vulnerability+Researcher)](https://git.io/typing-svg)
+<!-- ===== ANIMATED TYPING ===== -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=800&color=00FF41&center=true&vCenter=true&random=false&width=720&height=70&lines=%3E+root%40jaswanth%3A~%23+access+granted+%E2%9C%93;%F0%9F%94%90+Ethical+Hacker+%26+Bug+Bounty+Hunter;%F0%9F%9B%A1%EF%B8%8F+Penetration+Tester+%7C+Red+Teamer;%F0%9F%92%80+Breaking+Things+to+Make+Them+Safer;%F0%9F%9A%A9+CTF+Player+%7C+Vulnerability+Researcher)](https://git.io/typing-svg)
 
-<!-- Profile Views + Followers + Badges -->
+<!-- ===== STATUS BADGES ===== -->
+<p>
 <img src="https://komarev.com/ghpvc/?username=jaswanthsai1&label=PROFILE+VIEWS&color=00ff41&style=for-the-badge" alt="Profile Views" />
 <img src="https://img.shields.io/github/followers/jaswanthsai1?label=FOLLOWERS&style=for-the-badge&color=00ff41&labelColor=000000&logo=github" alt="Followers" />
 <img src="https://img.shields.io/badge/STATUS-HUNTING%20BUGS-00ff41?style=for-the-badge&labelColor=000000" alt="Status" />
+<img src="https://img.shields.io/badge/BASED%20IN-INDIA%20%F0%9F%87%AE%F0%9F%87%B3-ff6600?style=for-the-badge&labelColor=000000" alt="India" />
+</p>
+
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/rainbow-line.gif" width="100%" />
 
 </div>
 
-<br>
+## 🧑‍💻 `whoami`
+
+<img align="right" width="38%" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/code-typing.gif" />
+
+```bash
+┌──(jaswanth㉿kali)-[~]
+└─$ cat ./profile.txt
+
+  NAME ......... Maturi Jaswanth Sai Madhu Mohan
+  ROLE ......... Bug Hunter | Penetration Tester
+  LOCATION ..... Guntur, India 🇮🇳
+  MISSION ...... Break it ethically. Report it responsibly.
+  STATUS ....... root@hunting:~# always learning 🔥
+```
+
+- 🔭 Hunting bugs & breaking things **(ethically!)**
+- 🛡️ Focused on **Web App Security**, **Network Pentesting** & **OSINT**
+- 🧠 Leveling up in **Red Teaming** & **Malware Analysis**
+- 🐛 Active **Bug Bounty Hunter** on HackerOne & Bugcrowd
+- 🚩 Competitive **CTF Player** | ☕ Powered by coffee & curiosity
+
+<br clear="right"/>
 
 <div align="center">
 
-```ansi
-[0;32m╔══════════════════════════════════════════════════════════════╗
-║   [0;37mwelcome to my digital hideout — proceed with curiosity   [0;32m║
-╚══════════════════════════════════════════════════════════════╝[0m
-```
+> ### 💬 *"There is no patch for human curiosity."*
+> #### `stay hacking • stay ethical` 💀
 
 </div>
 
 ---
 
-## 🧑‍💻 `whoami`
+## 📊 Stats & Analytics
 
-```bash
-┌──(jaswanth㉿kali)-[~]
-└─$ cat /etc/profile
-> NAME ............ Maturi Jaswanth Sai Madhu Mohan
-> ROLE ............ Bug Hunter | Penetration Tester | Security Researcher
-> LOCATION ........ Guntur, India 🇮🇳
-> MISSION ......... Break things ethically. Report responsibly. Stay curious.
-```
+<div align="center">
 
-<table>
-<tr>
-<td valign="top" width="50%">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jaswanthsai1&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaswanthsai1&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9"/>
 
-### 🎯 What I Do
-- 🔭 Hunting bugs & breaking things **(ethically!)**
-- 🛡️ **Web App Security**, **Network Pentesting** & **OSINT**
-- 🧠 Learning **Red Teaming** & **Malware Analysis**
-- 🐛 Active **Bug Bounty Hunter**
-- 🚩 Competitive **CTF Player**
+<br>
 
-</td>
-<td valign="top" width="50%">
+[![GitHub Streak](https://streak-stats.demolab.com/?user=jaswanthsai1&theme=highcontrast&hide_border=true&background=0D1117&stroke=00ff41&ring=00ff41&fire=ff6600&currStreakLabel=00ff41&sideLabels=00ff41&dates=c9d1d9&currStreakNum=ffffff&sideNums=ffffff)](https://git.io/streak-stats)
 
-### ⚡ Quick Facts
-- 🎓 Cyber Security Learner
-- 💬 Ask me about **web exploitation**
-- 🌱 Always learning new **attack vectors**
-- 🤝 Open to **security collaborations**
-- ☕ Powered by coffee & curiosity
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jaswanthsai1&theme=high-contrast&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-</td>
-</tr>
-</table>
+</div>
+
+---
+
+## 🐍 Watch My Contributions Get Eaten
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/jaswanthsai1/jaswanthsai1/output/github-contribution-grid-snake-dark.svg)
+
+</div>
 
 ---
 
@@ -105,40 +117,6 @@
 ![](https://img.shields.io/badge/🛡️_Mindset-Defender-2596CD?style=for-the-badge&labelColor=000000)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=jaswanthsai1&theme=matrix&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 📊 Stats & Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jaswanthsai1&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaswanthsai1&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=jaswanthsai1&theme=highcontrast&hide_border=true&background=0D1117&stroke=00ff41&ring=00ff41&fire=ff6600&currStreakLabel=00ff41&sideLabels=00ff41&dates=c9d1d9&currStreakNum=ffffff&sideNums=ffffff)](https://git.io/streak-stats)
-
-</div>
-
-<div align="center">
-
-<!-- Contribution Activity Graph -->
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jaswanthsai1&theme=high-contrast&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 🐍 Watch My Contributions Get Eaten
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/jaswanthsai1/jaswanthsai1/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
@@ -195,15 +173,7 @@ hunter.hunt()  # >>> Making the web safer, one bug at a time 🔐
 ### ⚠️ Disclaimer
 > *All security research is performed ethically and legally with proper authorization. I do not support or condone illegal activities.*
 
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/quote/quote12.gif" width="60%" />
-
-<br><br>
-
-```
-"There is no patch for human curiosity." — stay hacking, stay ethical 💀
-```
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:00ff41,70:003B00,100:000000&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:00ff41,70:003B00,100:0d1117&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=00ff41&fontAlignY=70" />
 
 ⭐ From [jaswanthsai1](https://github.com/jaswanthsai1) — *with* 🖤 *and a lot of caffeine*
 
